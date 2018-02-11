@@ -1,6 +1,7 @@
 Awesome Blockchain
 ==================
 Curated list of the bitcoin blockchain services:
+
 Proof Of Caring. Last 6 of ETH address: e0ca2f
 
 List of content:
@@ -26,7 +27,6 @@ List of content:
 * [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/) only on private ethereum blockchain
 * [Blockchainproof.me](https://blockchainproof.me/) Free proof of existence of any file
 * [OringStamp](http://www.originstamp.org/)
-* [TomoCoin](http://tomocoin.io/)
 
 
 ## Registration wall
@@ -84,6 +84,7 @@ the forest, the trees, and all the levels of detail in between.
 
 # Other
 * [Tradle](http://tradle.io/) extending the bitcoin blockchain to non-financial applications
+* [TomoCoin](http://tomocoin.io/) an innovative solution to the scalability problem with the Ethereum blockchain. 
 
 # Private Blockchain
 * [Multichain](http://www.multichain.com/) Open platform for building blockchains
