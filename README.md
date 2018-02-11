@@ -1,6 +1,7 @@
 Awesome Blockchain
 ==================
 Curated list of the bitcoin blockchain services:
+Proof Of Caring. Last 6 of ETH address: e0ca2f
 
 List of content:
 - [Proof of existence](#proof-of-existence)
@@ -25,6 +26,8 @@ List of content:
 * [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/) only on private ethereum blockchain
 * [Blockchainproof.me](https://blockchainproof.me/) Free proof of existence of any file
 * [OringStamp](http://www.originstamp.org/)
+* [TomoCoin](http://tomocoin.io/)
+
 
 ## Registration wall
 * [Bitproof.io](https://bitproof.io)
